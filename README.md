@@ -30,6 +30,8 @@
 13. **ls -al ~/.ssh**: _(lista as chaves ssh)_;
 14. **git config credential.helper store**: _(não precisa inserir credencial quando fizer um push)_;
 
+## Apontmanetos:
+
 - **git clone**: _[link do projeto] (copia o projeto para nossa máquina)_;
 
 * **git pull**: _(puxa o projeto da nuvem)_;
