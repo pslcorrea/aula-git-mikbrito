@@ -31,3 +31,5 @@ git push -u origin master
 
 git stash - pega as modificações e "guarda"
 git stach apply - pega as modificações "guardadas" e aplica
+
+git config credential.helper store
