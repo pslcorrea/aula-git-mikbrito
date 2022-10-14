@@ -1,3 +1,6 @@
+1. **git init**
+   \*(é utilizado para criar e iniciar um projeto git);
+
 1- `git init` (é utilizado para criar e iniciar um projeto git);
 2- `git add` landingpage.html (adiciona um ponto na história do projeto);
 
