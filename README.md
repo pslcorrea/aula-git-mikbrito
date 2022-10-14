@@ -5,4 +5,4 @@
 5- git show (mostra o historico do último arquivo atualizado, ou seja o último ponto na historia)
 :wq sai do git show (comando do vim)
 6- git branch [nome=feature/carrinho-de-compras] (cria uma nova versão)
-7- git checkout [nome da branch]
+7- git checkout [nome da branch
