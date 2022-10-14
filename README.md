@@ -33,6 +33,6 @@
 - **git clone**: _[link do projeto] (copia o projeto para nossa máquina)_;
 
 * **git pull**: _(puxa o projeto da nuvem)_;
-  // Voltar um arquivo para um determinado momento
 
 * **git checkout [id da linha do tempo] -- [nome do arquivo]**
+  // Voltar um arquivo para um determinado momento
